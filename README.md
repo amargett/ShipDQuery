@@ -1,4 +1,4 @@
-# credit for ShipD dataset goes to Noah Bagazinski and MIT Decode Lab
+credit for ShipD dataset goes to Noah Bagazinski and MIT Decode Lab
 
 
 
