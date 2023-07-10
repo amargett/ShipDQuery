@@ -1,3 +1,7 @@
+# credit for ShipD dataset goes to Noah Bagazinski and MIT Decode Lab
+
+
+
 # run getData file
 # you will be prompted to enter an integer "boatInt". This represents the index of the boat within the ShipD dataset you 
 # would like to access. This will then output the data associated with this boat in the following order: 
